@@ -1,0 +1,14 @@
+h1,h2,.game-canvas{
+    text-align: center;
+    
+}
+#score,#game-status{
+    color: red;
+}
+
+body{
+    background-image: url(images/snake.jpg);
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
